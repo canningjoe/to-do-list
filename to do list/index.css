@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+}
+p {
+  color: blueviolet;
+  font-size: large;
+}
+body {
+  color: rgb(230, 11, 11);
+}
+.delete {
+  margin-right: 5px;
+}
